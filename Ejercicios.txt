@@ -1,0 +1,13 @@
+Trabajo Entrega Estructura de Datos
+
+Tarea #1 --- Conversor flotantes a binarios y binarios a flotantes formato IEEE
+Tarea #2 --- Cajero 
+
+Practicas
+
+Pila Array
+Pila Puntero
+Palindromo
+Cola array sencilla
+
+
