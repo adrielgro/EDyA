@@ -1,13 +1,16 @@
-Trabajo Entrega Estructura de Datos
+Trabajo Entrega Estructura de Datos Jueves 22 de Marzo
 
 Tarea #1 --- Conversor flotantes a binarios y binarios a flotantes formato IEEE
 Tarea #2 --- Cajero 
 
-Practicas
-
+Ejercicios
+Triangulo de asteriscos
+Numeros Romanos
+Triangulo de Pascal
 Pila Array
 Pila Puntero
 Palindromo
-Cola array sencilla
-
-
+Cola Cine
+Cola puntero
+Menu de operaciones de lista
+ADN
