@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 Trabajo Entrega Estructura de Datos
+=======
+Trabajo Entrega Estructura de Datos Jueves 22 de Marzo
+>>>>>>> 1f2c8cfce0b9f7eecdcc6e896d493e1efcc0ca0a
 
 Tarea #1 --- Conversor flotantes a binarios y binarios a flotantes formato IEEE
 Tarea #2 --- Cajero 
 
+<<<<<<< HEAD
 Practicas
 
 Pila Array
@@ -11,3 +16,16 @@ Palindromo
 Cola array sencilla
 
 
+=======
+Ejercicios
+Triangulo de asteriscos
+Numeros Romanos
+Triangulo de Pascal
+Pila Array
+Pila Puntero
+Palindromo
+Cola Cine
+Cola puntero
+Menu de operaciones de lista
+ADN
+>>>>>>> 1f2c8cfce0b9f7eecdcc6e896d493e1efcc0ca0a
